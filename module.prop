@@ -4,4 +4,4 @@ version=version 8
 versionCode=13
 author=Jplwolters, Waaiez
 description=Systemlessly replace the original Emoji font with the iOS12.1 beta 2 Emoji font.
-minMagisk=100
+minMagisk=1700
