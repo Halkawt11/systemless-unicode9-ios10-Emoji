@@ -11,7 +11,7 @@ New emojis included
 All the included emojis.
 
 ## Prerequisites
-* Magisk v15 or higher
+* Magisk v17 or higher
 
 **_Note:_** 
 Tested on the Oneplus x running various android 6 and 7 roms with Magisk v13.1 & v13.3. Your mileage may vary.
@@ -43,6 +43,7 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS11.1 variant.
 ## Change Log
 #### version 8.0
 * Updated emojis to iOS 12.1 Beta 2
+* Update to Magisk version 1700
 
 #### version 7.5
 * Update to Magisk version 1500
