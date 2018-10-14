@@ -40,10 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     	Magisk Module:         "
-  ui_print "systemless unicode9 ios10 icons"
-  ui_print "*******************************"
+  ui_print "*************************************"
+  ui_print "     	Magisk Module:               "
+  ui_print "Systemless Unicode 11 iOS 12.1 Emojis"
+  ui_print "*************************************"
 }
 
 ##########################################################################################
