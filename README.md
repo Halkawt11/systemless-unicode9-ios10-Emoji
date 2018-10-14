@@ -26,10 +26,12 @@ After installing click on "reboot". Your device should reboot.
 
 **_Note:_** When you experience problems installing this module check out this [discussion on XDA](https://forum.xda-developers.com/apps/magisk/magisk-ios10-emoji-font-t3596503)
 
-**_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
+**_Note:_** 
+Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
+You need to use a keyboard which supports unicode 11 emojis [eg. Gboard]
 
 ## How it works
-Replaces the default emoji font (NotoColorEmoji.tff) with the iOS11.1 variant. 
+Replaces the default emoji font (NotoColorEmoji.tff) with the iOS12.1 variant. 
 
 ## Links
 * [Magisk forum](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
