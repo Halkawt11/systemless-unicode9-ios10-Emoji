@@ -3,10 +3,6 @@ Changes the default emoji font to the iOS 12.1 Beta 2 Emoji for various android 
 This module also changes the system font configuration so the font pack is loaded first.
 
 ## Preview of all the iOS12.1 Beta 2 emojis included in this module:
-![New emojis from iOS 12.1 Beta 2](http://i.imgur.com/427hyua)
-New emojis included
-
-## Emojis included from previous version of iOS
 ![All included](http://i.imgur.com/Scr2QQq.jpg)
 All the included emojis.
 
