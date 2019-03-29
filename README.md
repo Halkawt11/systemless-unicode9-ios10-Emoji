@@ -1,4 +1,4 @@
-# iOS12.1 Emoji
+# iOS12.1 Emoji backup
 Changes the default emoji font to the iOS 12.1 Beta 2 Emoji for various android devices.
 This module also changes the system font configuration so the font pack is loaded first.
 
