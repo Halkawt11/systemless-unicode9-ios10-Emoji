@@ -11,11 +11,10 @@ New emojis included
 All the included emojis.
 
 ## Prerequisites
-* Magisk v17 or higher
+* Magisk v18.1 or higher
 
 **_Note:_** 
-Tested on the Oneplus x running various android 6 and 7 roms with Magisk v13.1 & v13.3. Your mileage may vary.
-Tested on the Huawei P9 Lite 2016 running various Android 7 Emui with Magisk v17.2. Your mileage may vary.
+Tested on the Oneplus x running various android 9 roms with Magisk v19 Your mileage may vary.
 
 ## How to download & install this module
 Inside [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk) go to the "Downloads" section. 
@@ -43,6 +42,9 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS12.1 variant.
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
 ## Change Log
+#### version 9.0
+* Updated module to support Magisk v19
+
 #### version 8.0
 * Updated emojis to iOS 12.1 Beta 2
 * Update to Magisk version 1700
