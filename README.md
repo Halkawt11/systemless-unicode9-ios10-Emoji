@@ -7,7 +7,7 @@ This module also changes the system font configuration so the font pack loads th
 All the included emojis.
 
 ## Prerequisites
-* Magisk v19 or higher
+* Magisk v17 or higher
 
 **_Note:_** 
 Tested on the Oneplus X running various android 9 roms with Magisk v19. Your mileage may vary.
